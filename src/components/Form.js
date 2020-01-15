@@ -5,7 +5,7 @@ import ToppingForm from './ToppingForm'
 import SideForm from './SideForm'
 
 const DEFAULT_STATE = {
-  protein: [],
+  protein: [Barbacoa],
   fillings: [],
   toppings: [],
   sides: []
